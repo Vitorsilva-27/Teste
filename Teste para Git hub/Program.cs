@@ -10,6 +10,8 @@ namespace Teste_para_Git_hub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Bom dia !");
+            Console.WriteLine("Boa tarde!");
         }
     }
 }
